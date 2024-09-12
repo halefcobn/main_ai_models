@@ -51,7 +51,7 @@ Clone the project repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/YourUsername/GeminiModels.git
+git clone https://github.com/halefcobn/GeminiModels.git
 cd GeminiModels
 2. Set Up the Environment
 Create a .env file and configure it with your API keys:
